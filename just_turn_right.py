@@ -1,4 +1,4 @@
-n = 3
+n = int(input())
 x = []
 y = []
 for i in range(0, n):
